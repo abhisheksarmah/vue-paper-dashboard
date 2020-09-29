@@ -4,8 +4,16 @@ import SidebarLink from "./SidebarLink";
 const SidebarStore = {
   showSidebar: false,
   sidebarLinks: [],
+  backgroundColor: 'black',
+  showLogo: true,
   displaySidebar(value) {
     this.showSidebar = value;
+  },
+  changeBackgroundColor() {
+    this.backgroundColor == 'white' ? this.backgroundColor = 'black' : this.backgroundColor = 'white'
+  },
+  toggleBrandLogo() {
+    this.showLogo = !this.showLogo
   }
 };
 

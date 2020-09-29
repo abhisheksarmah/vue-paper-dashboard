@@ -10,6 +10,9 @@ import StatsCard from "./Cards/StatsCard.vue";
 
 import SidebarPlugin from "./SidebarPlugin/index";
 
+import SettingsItem from "./Settings/SettingsItem.vue";
+
+
 let components = {
   FormGroupInput,
   Card,
@@ -17,7 +20,8 @@ let components = {
   StatsCard,
   PaperTable,
   DropDown,
-  SidebarPlugin
+  SidebarPlugin,
+  SettingsItem
 };
 
 export default components;
@@ -30,5 +34,6 @@ export {
   PaperTable,
   DropDown,
   Button,
-  SidebarPlugin
+  SidebarPlugin,
+  SettingsItem,
 };

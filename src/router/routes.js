@@ -6,18 +6,17 @@ import NotFound from "@/pages/NotFoundPage.vue";
 import Dashboard from "@/pages/Dashboard.vue";
 import UserProfile from "@/pages/UserProfile.vue";
 import Notifications from "@/pages/Notifications.vue";
-import Icons from "@/pages/Icons.vue";
-import Maps from "@/pages/Maps.vue";
-import Typography from "@/pages/Typography.vue";
+// import Icons from "@/pages/Icons.vue";
+// import Maps from "@/pages/Maps.vue";
+// import Typography from "@/pages/Typography.vue";
 import TableList from "@/pages/TableList.vue";
+import Settings from "@/pages/Settings.vue";
 
-const routes = [
-  {
+const routes = [{
     path: "/",
     component: DashboardLayout,
     redirect: "/dashboard",
-    children: [
-      {
+    children: [{
         path: "dashboard",
         name: "dashboard",
         component: Dashboard
@@ -32,29 +31,37 @@ const routes = [
         name: "notifications",
         component: Notifications
       },
-      {
-        path: "icons",
-        name: "icons",
-        component: Icons
-      },
-      {
-        path: "maps",
-        name: "maps",
-        component: Maps
-      },
-      {
-        path: "typography",
-        name: "typography",
-        component: Typography
-      },
+      // {
+      //   path: "icons",
+      //   name: "icons",
+      //   component: Icons
+      // },
+      // {
+      //   path: "maps",
+      //   name: "maps",
+      //   component: Maps
+      // },
+      // {
+      //   path: "typography",
+      //   name: "typography",
+      //   component: Typography
+      // },
       {
         path: "table-list",
         name: "table-list",
         component: TableList
+      },
+      {
+        path: "settings",
+        name: "settings",
+        component: Settings
       }
     ]
   },
-  { path: "*", component: NotFound }
+  {
+    path: "*",
+    component: NotFound
+  }
 ];
 
 /**
