@@ -2,20 +2,20 @@
 	<div class="d-flex justify-content-between mb-4">
 		<div>
 			<h4 class="card-title">{{item.title}}</h4>
-			<p class="card-category">{{item.subTitle}}</p>
+			<p class="card-category">{{item.description}}</p>
 		</div>
 		<div class="custom-control custom-switch d-flex">
 			<input
 				type="checkbox"
 				class="custom-control-input"
-				:id="`customSwitch${item.id}`"
-				:value="item.dataProperty"
-				@change="checkHandler(item.handlerRoot, item.handler)"
+				:id="`customSwitch${item.name}`"
+				:value="item.status"
+				v-model="$root.settings[item.name]['status']"
 			>
 			<label
 				class="custom-control-label"
-				:for="`customSwitch${item.id}`"
-			>{{settingValue}}</label>
+				:for="`customSwitch${item.name}`"
+			>{{item.status}}</label>
 		</div>
 	</div>
 </template>
@@ -26,20 +26,6 @@ export default {
 	props: {
 		item: {
 			type: Object,
-		},
-		checkHandler: {
-			type: Function,
-		},
-	},
-	computed: {
-		settingValue() {
-			let value = this[`${this.item.handlerRoot}`][
-				this.item.dataProperty
-			];
-			if (typeof value == "boolean") {
-				return value ? "Yes" : "No";
-			}
-			return value;
 		},
 	},
 };

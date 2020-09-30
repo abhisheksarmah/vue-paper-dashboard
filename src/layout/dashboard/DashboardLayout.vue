@@ -1,6 +1,6 @@
 <template>
 	<div class="wrapper">
-		<side-bar :background-color="$sidebar.backgroundColor">
+		<side-bar :background-color="$root.settings.darkMode.status ? 'black' : 'white'">
 			<template slot="links">
 				<sidebar-link
 					to="/dashboard"

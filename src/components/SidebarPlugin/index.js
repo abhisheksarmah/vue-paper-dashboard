@@ -9,12 +9,6 @@ const SidebarStore = {
   displaySidebar(value) {
     this.showSidebar = value;
   },
-  changeBackgroundColor() {
-    this.backgroundColor == 'white' ? this.backgroundColor = 'black' : this.backgroundColor = 'white'
-  },
-  toggleBrandLogo() {
-    this.showLogo = !this.showLogo
-  }
 };
 
 const SidebarPlugin = {

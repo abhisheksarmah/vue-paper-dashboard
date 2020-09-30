@@ -62,6 +62,17 @@
 							</p>
 						</router-link>
 					</li>
+					<li class="nav-item">
+						<a
+							role="button"
+							class="nav-link"
+						>
+							<i class="ti-user"></i>
+							<p>
+								{{$root.settings.adminRole.status ? 'Admin' : 'Normal'}} User
+							</p>
+						</a>
+					</li>
 				</ul>
 			</div>
 		</div>

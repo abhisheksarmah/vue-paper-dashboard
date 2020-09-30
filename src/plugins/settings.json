@@ -1,0 +1,58 @@
+{
+  "adminRole": {
+    "name": "adminRole",
+    "title": "User Role",
+    "description": "Enable or disable admin behaviour",
+    "defaultAccess": true,
+    "status": false
+  },
+  "sideMenu": {
+    "name": "sideMenu",
+    "title": "Side Menu",
+    "description": "Show or hide the side menu",
+    "defaultAccess": true,
+    "status": true
+  },
+  "sideMenuLogo": {
+    "name": "sideMenuLogo",
+    "title": "Side Menu Logo",
+    "description": "Show or hide the side menu logo",
+    "defaultAccess": true,
+    "status": true
+  },
+  "userProfile": {
+    "name": "userProfile",
+    "title": "User Profile",
+    "description": "Show or hide user profile from the application",
+    "defaultAccess": true,
+    "status": true
+  },
+  "tableList": {
+    "name": "tableList",
+    "title": "Tabler List",
+    "description": "Show or hide table list from the application",
+    "defaultAccess": true,
+    "status": true
+  },
+  "searchBar": {
+    "name": "searchBar",
+    "title": "Search Bar",
+    "description": "Show or hide the search bar from the navbar",
+    "defaultAccess": false,
+    "status": false
+  },
+  "darkMode": {
+    "name": "darkMode",
+    "title": "Dark Side Menu",
+    "description": "Enable or disable dark side menu for the application",
+    "defaultAccess": false,
+    "status": false
+  },
+  "gallery": {
+    "name": "gallery",
+    "title": "Gallery",
+    "description": "Show or hide gallery from the application",
+    "defaultAccess": false,
+    "status": true
+  }
+}
