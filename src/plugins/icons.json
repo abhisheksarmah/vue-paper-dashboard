@@ -1,0 +1,381 @@
+[{
+  "icon": "ti-wand"
+}, {
+  "icon": "ti-save"
+}, {
+  "icon": "ti-save-alt"
+}, {
+  "icon": "ti-direction"
+}, {
+  "icon": "ti-direction-alt"
+}, {
+  "icon": "ti-user"
+}, {
+  "icon": "ti-link"
+}, {
+  "icon": "ti-unlink"
+}, {
+  "icon": "ti-trash"
+}, {
+  "icon": "ti-target"
+}, {
+  "icon": "ti-tag"
+}, {
+  "icon": "ti-desktop"
+}, {
+  "icon": "ti-tablet"
+}, {
+  "icon": "ti-mobile"
+}, {
+  "icon": "ti-email"
+}, {
+  "icon": "ti-star"
+}, {
+  "icon": "ti-spray"
+}, {
+  "icon": "ti-signal"
+}, {
+  "icon": "ti-shopping-cart"
+}, {
+  "icon": "ti-shopping-cart-full"
+}, {
+  "icon": "ti-settings"
+}, {
+  "icon": "ti-search"
+}, {
+  "icon": "ti-zoom-in"
+}, {
+  "icon": "ti-zoom-out"
+}, {
+  "icon": "ti-cut"
+}, {
+  "icon": "ti-ruler"
+}, {
+  "icon": "ti-ruler-alt-2"
+}, {
+  "icon": "ti-ruler-pencil"
+}, {
+  "icon": "ti-ruler-alt"
+}, {
+  "icon": "ti-bookmark"
+}, {
+  "icon": "ti-bookmark-alt"
+}, {
+  "icon": "ti-reload"
+}, {
+  "icon": "ti-plus"
+}, {
+  "icon": "ti-minus"
+}, {
+  "icon": "ti-close"
+}, {
+  "icon": "ti-pin"
+}, {
+  "icon": "ti-pencil"
+}, {
+  "icon": "ti-pencil-alt"
+}, {
+  "icon": "ti-paint-roller"
+}, {
+  "icon": "ti-paint-bucket"
+}, {
+  "icon": "ti-na"
+}, {
+  "icon": "ti-medall"
+}, {
+  "icon": "ti-medall-alt"
+}, {
+  "icon": "ti-marker"
+}, {
+  "icon": "ti-marker-alt"
+}, {
+  "icon": "ti-lock"
+}, {
+  "icon": "ti-unlock"
+}, {
+  "icon": "ti-location-arrow"
+}, {
+  "icon": "ti-layout"
+}, {
+  "icon": "ti-layers"
+}, {
+  "icon": "ti-layers-alt"
+}, {
+  "icon": "ti-key"
+}, {
+  "icon": "ti-image"
+}, {
+  "icon": "ti-heart"
+}, {
+  "icon": "ti-heart-broken"
+}, {
+  "icon": "ti-hand-stop"
+}, {
+  "icon": "ti-hand-open"
+}, {
+  "icon": "ti-hand-drag"
+}, {
+  "icon": "ti-flag"
+}, {
+  "icon": "ti-flag-alt"
+}, {
+  "icon": "ti-flag-alt-2"
+}, {
+  "icon": "ti-eye"
+}, {
+  "icon": "ti-import"
+}, {
+  "icon": "ti-export"
+}, {
+  "icon": "ti-cup"
+}, {
+  "icon": "ti-crown"
+}, {
+  "icon": "ti-comments"
+}, {
+  "icon": "ti-comment"
+}, {
+  "icon": "ti-comment-alt"
+}, {
+  "icon": "ti-thought"
+}, {
+  "icon": "ti-clip"
+}, {
+  "icon": "ti-check"
+}, {
+  "icon": "ti-check-box"
+}, {
+  "icon": "ti-camera"
+}, {
+  "icon": "ti-announcement"
+}, {
+  "icon": "ti-brush"
+}, {
+  "icon": "ti-brush-alt"
+}, {
+  "icon": "ti-palette"
+}, {
+  "icon": "ti-briefcase"
+}, {
+  "icon": "ti-bolt"
+}, {
+  "icon": "ti-bolt-alt"
+}, {
+  "icon": "ti-blackboard"
+}, {
+  "icon": "ti-bag"
+}, {
+  "icon": "ti-world"
+}, {
+  "icon": "ti-wheelchair"
+}, {
+  "icon": "ti-car"
+}, {
+  "icon": "ti-truck"
+}, {
+  "icon": "ti-timer"
+}, {
+  "icon": "ti-ticket"
+}, {
+  "icon": "ti-thumb-up"
+}, {
+  "icon": "ti-thumb-down"
+}, {
+  "icon": "ti-stats-up"
+}, {
+  "icon": "ti-stats-down"
+}, {
+  "icon": "ti-shine"
+}, {
+  "icon": "ti-shift-right"
+}, {
+  "icon": "ti-shift-left"
+}, {
+  "icon": "ti-shift-right-alt"
+}, {
+  "icon": "ti-shift-left-alt"
+}, {
+  "icon": "ti-shield"
+}, {
+  "icon": "ti-notepad"
+}, {
+  "icon": "ti-server"
+}, {
+  "icon": "ti-pulse"
+}, {
+  "icon": "ti-printer"
+}, {
+  "icon": "ti-power-off"
+}, {
+  "icon": "ti-plug"
+}, {
+  "icon": "ti-pie-chart"
+}, {
+  "icon": "ti-panel"
+}, {
+  "icon": "ti-package"
+}, {
+  "icon": "ti-music"
+}, {
+  "icon": "ti-music-alt"
+}, {
+  "icon": "ti-mouse"
+}, {
+  "icon": "ti-mouse-alt"
+}, {
+  "icon": "ti-money"
+}, {
+  "icon": "ti-microphone"
+}, {
+  "icon": "ti-menu"
+}, {
+  "icon": "ti-menu-alt"
+}, {
+  "icon": "ti-map"
+}, {
+  "icon": "ti-map-alt"
+}, {
+  "icon": "ti-location-pin"
+}, {
+  "icon": "ti-light-bulb"
+}, {
+  "icon": "ti-info"
+}, {
+  "icon": "ti-infinite"
+}, {
+  "icon": "ti-id-badge"
+}, {
+  "icon": "ti-hummer"
+}, {
+  "icon": "ti-home"
+}, {
+  "icon": "ti-help"
+}, {
+  "icon": "ti-headphone"
+}, {
+  "icon": "ti-harddrives"
+}, {
+  "icon": "ti-harddrive"
+}, {
+  "icon": "ti-gift"
+}, {
+  "icon": "ti-game"
+}, {
+  "icon": "ti-filter"
+}, {
+  "icon": "ti-files"
+}, {
+  "icon": "ti-file"
+}, {
+  "icon": "ti-zip"
+}, {
+  "icon": "ti-folder"
+}, {
+  "icon": "ti-envelope"
+}, {
+  "icon": "ti-dashboard"
+}, {
+  "icon": "ti-cloud"
+}, {
+  "icon": "ti-cloud-up"
+}, {
+  "icon": "ti-cloud-down"
+}, {
+  "icon": "ti-clipboard"
+}, {
+  "icon": "ti-calendar"
+}, {
+  "icon": "ti-book"
+}, {
+  "icon": "ti-bell"
+}, {
+  "icon": "ti-basketball"
+}, {
+  "icon": "ti-bar-chart"
+}, {
+  "icon": "ti-bar-chart-alt"
+}, {
+  "icon": "ti-archive"
+}, {
+  "icon": "ti-anchor"
+}, {
+  "icon": "ti-alert"
+}, {
+  "icon": "ti-alarm-clock"
+}, {
+  "icon": "ti-agenda"
+}, {
+  "icon": "ti-write"
+}, {
+  "icon": "ti-wallet"
+}, {
+  "icon": "ti-video-clapper"
+}, {
+  "icon": "ti-video-camera"
+}, {
+  "icon": "ti-vector"
+}, {
+  "icon": "ti-support"
+}, {
+  "icon": "ti-stamp"
+}, {
+  "icon": "ti-slice"
+}, {
+  "icon": "ti-shortcode"
+}, {
+  "icon": "ti-receipt"
+}, {
+  "icon": "ti-pin2"
+}, {
+  "icon": "ti-pin-alt"
+}, {
+  "icon": "ti-pencil-alt2"
+}, {
+  "icon": "ti-eraser"
+}, {
+  "icon": "ti-more"
+}, {
+  "icon": "ti-more-alt"
+}, {
+  "icon": "ti-microphone-alt"
+}, {
+  "icon": "ti-magnet"
+}, {
+  "icon": "ti-line-double"
+}, {
+  "icon": "ti-line-dotted"
+}, {
+  "icon": "ti-line-dashed"
+}, {
+  "icon": "ti-ink-pen"
+}, {
+  "icon": "ti-info-alt"
+}, {
+  "icon": "ti-help-alt"
+}, {
+  "icon": "ti-headphone-alt"
+}, {
+  "icon": "ti-gallery"
+}, {
+  "icon": "ti-face-smile"
+}, {
+  "icon": "ti-face-sad"
+}, {
+  "icon": "ti-credit-card"
+}, {
+  "icon": "ti-comments-smiley"
+}, {
+  "icon": "ti-time"
+}, {
+  "icon": "ti-share"
+}, {
+  "icon": "ti-share-alt"
+}, {
+  "icon": "ti-rocket"
+}, {
+  "icon": "ti-new-window"
+}, {
+  "icon": "ti-rss"
+}, {
+  "icon": "ti-rss-alt"
+}]
